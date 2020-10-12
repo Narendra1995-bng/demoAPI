@@ -1,0 +1,16 @@
+{
+    "users":[
+      {
+        "uid":1,
+        "uname":"admin",
+        "uemail":"admin@admin.com",
+        "ugroup":1
+      },
+      {
+        "uid":2,
+        "uname":"hr",
+        "uemail":"hr@hr.com",
+        "ugroup":2
+      }      
+    ]
+}
